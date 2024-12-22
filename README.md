@@ -282,10 +282,7 @@ page 4
 ```
 
 ## OUTPUT:
-![alt text](A.png)
-![alt text](B.png)
-![alt text](C.png)
-![alt text](D.png)
+![alt text](<Screenshot (1).png>)
 
 
 ## RESULT:
