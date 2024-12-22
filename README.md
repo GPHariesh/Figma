@@ -286,5 +286,7 @@ page 4
 ![alt text](B.png)
 ![alt text](C.png)
 ![alt text](D.png)
+
+
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
